@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CS_Blog">
+</Property><Property Name="Solution File" Value="E:\VCTestCode\cs_blog\CS_Blog.sln">
+</Property><Property Name="Date" Value="2017年6月26日">
+</Property><Property Name="Time" Value="13:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CS_Blog.sln" Description="File successfully backed up as E:\VCTestCode\cs_blog\Backup\CS_Blog.sln">
+</Event><Event ErrorLevel="1" Project="cs_blog" Source="..\cs_blog" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="CS_Blog.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CS_Blog.sln" Description="Converted">
+</Event></UpgradeLog>
